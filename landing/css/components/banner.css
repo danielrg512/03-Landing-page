@@ -1,0 +1,14 @@
+.banner {
+  background-image: url(https://www.culturarecreacionydeporte.gov.co/sites/default/files/programacion_2022-1.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
